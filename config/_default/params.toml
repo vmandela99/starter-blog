@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "starter-blog"
+theme = "strawberry"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -88,8 +88,8 @@ show_related = {post = true}
 ############################
 
 ## Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-#phone = "888 888 88 88"
+email = "vmandela99@gmail.com"
+#phone = ""
 #
 ## Address
 ## For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -127,7 +127,7 @@ email = "test@example.org"
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "VictorMandela8"
 
 ############################
 ## Regional Settings
@@ -183,7 +183,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "circle"
+  shape = "square"
 
 ############################
 ## Comments
