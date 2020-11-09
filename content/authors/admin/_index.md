@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Victor Mandela
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Xetova Software Company
+  url: "https://www.xetova.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My major interests include data modelling, machine learning, design and, deployment of shiny apps.
 
 #interests:
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: MSc in Statistics
+    institution: University of Nairobi
+    year: 2021
+  - course: BSc in Economics, Statistics Major
+    institution: University of Nairobi
+    year: 2015
+  - course: BSc in Data Science
+    institution: Data Camp Online Campus
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,13 +40,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'about/#contact'  # For a direct email link, use "vmandela99@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/VictorMandela8
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/vmandela99
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,6 +63,6 @@ social:
 #- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Passionate about getting insights from data with deep experience in the development of market based solutions seeking to solve the toughest social and development issues facing bottom of the pyramid communities in frontier markets all over the world. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+What motivates me is the sea of knowledge that when learned can reduce the amount of time we spend to solve problems. My major tools of analysis are SQL, R-Studio and Shiny Apps. I also use excel, python, docker, and AWS etc when collaborating with team members.
